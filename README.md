@@ -2,7 +2,7 @@
 # About Me:<br>🎓 MCA Graduate (2026)<br>📊 Aspiring Data Analyst / Data Engineer passionate about turning raw data into insights<br>🛠️ Skilled in SQL, Snowflake, Power BI, Python (Pandas, NumPy), and ETL pipelines<br>🚀 Currently building a Django-based data pipeline platform with AI-assisted NL-to-SQL querying<br>🌱 Always learning, exploring, and growing in the data space<br><br><br>### 💻 Tech Stack:<br>Python | SQL | Snowflake | Power BI | Django | Git | HTML | CSS | JavaScript
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Charan Pittala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charanpittala1506@gmail.com) 
 
 # 💻 Tech Stack:
